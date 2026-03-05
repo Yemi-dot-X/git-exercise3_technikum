@@ -1,1 +1,5 @@
+ HEAD
 repo1 line
+=======
+repo2 line
+>>>>>>> eeb0f038b58acab20c9851a6530b1309f4395fab
