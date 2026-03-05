@@ -2,4 +2,8 @@
 repo1 line
 
 repo2 line
+HEAD
 eeb0f038b58acab20c9851a6530b1309f4395fab
+
+ eeb0f038b58acab20c9851a6530b1309f4395fab
+420e59cfafbec75202e0fc99bf128f997838455d
